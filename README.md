@@ -7,7 +7,7 @@ My actual research project is to better understand the role of distal trans SNPs
 
 
 📧 You can contact me on:
+🌐 [My LinkedIn Profile](https://www.linkedin.com/in/ketkijos/)
 
-- 🌐 [My LinkedIn Profile](https://www.linkedin.com/in/ketkij16/)
-- 📫 Feel free to reach out for collaborations or networking!
+📫 Feel free to reach out for collaborations or networking!
 
