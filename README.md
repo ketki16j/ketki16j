@@ -5,6 +5,9 @@ Technically, my degree program is in “Molecular and Cell Biology” but my mai
 
 My actual research project is to better understand the role of distal trans SNPs and their role in regulating distal target gene. To do this I’ve developed a highly reproducible pipeline to generate gene expression prediction model by utilizing spatail Hi-C to capture distal trans-SNPs. Using those results I’m then working to better understand the function that trans SNPs play on a genome wide scale and their association with complex disease like Alzheimer Disease
 
+
 📧 You can contact me on:
 
-I am open to new opportunities/contributions. :smiley:
+- 🌐 [My LinkedIn Profile](https://www.linkedin.com/in/ketkij16/)
+- 📫 Feel free to reach out for collaborations or networking!
+
