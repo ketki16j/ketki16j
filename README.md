@@ -3,7 +3,7 @@
 
 Technically, my degree program is in “Molecular and Cell Biology” but my main focus is functional genomics. To study it I use bioinformatics and computational biology techniques.
 
-My actual research project is to better understand the role of distal trans SNPs in regulating distal target gene by developing a gene expression prediction model.  Using those results I’m then working to better understand the function that trans SNPs play on a genome wide scale and their association with complex neurological disease like Alzheimer Disease
+My actual research project is to better understand the role of distal trans SNPs in regulating distal target gene by developing a gene expression prediction model.  Using those results I’m then working to better understand the function that trans SNPs play on a genome wide scale and their association with complex neurological disorder like Alzheimer Disease
 
 
 📧 You can contact me on:
