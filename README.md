@@ -9,5 +9,5 @@ My actual research project is to better understand the role of distal trans SNPs
 📧 You can contact me on:
 🌐 [My LinkedIn Profile](https://www.linkedin.com/in/ketkijos/)
 
-📫 Feel free to reach out for collaborations or networking!
+
 
